@@ -15,7 +15,7 @@ Data was passed through cleaning and preprocessing phase. Examination for the co
 Exploratory data analysis was conducted for performing basic level understanding of data. This involved visualizations, such as bar charts and heatmaps, to identify voting patterns across different demographics, regions, and political parties.
 
 ## Tools Used:
-	Excel, Power Query, Power BI, Map Shaper
+Excel, Power Query, Power BI, Map Shaper
 
 ## Results:
 
