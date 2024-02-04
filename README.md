@@ -1,6 +1,8 @@
 # Telangana-Election-Results
 
 > Vizualising & analysing Telangana Assembly Elections 2023 
+![imgonline-com-ua-twotoone-XUuJGTwPwS48T3u](https://github.com/Ritik0109/Telangana-Election-Results/assets/84517614/b2ba7628-0bab-4d50-9a03-dfa5d5327288)
+
 
 ## Objective:
 
